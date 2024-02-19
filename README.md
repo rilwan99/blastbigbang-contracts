@@ -10,3 +10,4 @@ Contracts for [Blast Big Bang Competition](https://blast.io/en/bigbang)
 
 # Presentation
 Check out the presentation on [Loom!](https://www.loom.com/share/bc80ff95d75b4b2195c04241712019cb?sid=a4a439db-5cb0-4977-a25a-d7f94a42d6b8)
+https://www.loom.com/share/bc80ff95d75b4b2195c04241712019cb?sid=a4a439db-5cb0-4977-a25a-d7f94a42d6b8
